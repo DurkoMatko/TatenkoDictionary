@@ -1,0 +1,14 @@
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Release\TatenkoNajlepsi.exe.config
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Release\TatenkoNajlepsi.exe
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Release\TatenkoNajlepsi.pdb
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\MainWindow.g.cs
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\App.g.cs
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi_MarkupCompile.cache
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi_MarkupCompile.lref
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\MainWindow.baml
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi.g.resources
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi.Properties.Resources.resources
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi.csproj.GenerateResource.Cache
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi.exe
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Release\TatenkoNajlepsi.pdb
+C:\Users\T420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Release\Capture.JPG

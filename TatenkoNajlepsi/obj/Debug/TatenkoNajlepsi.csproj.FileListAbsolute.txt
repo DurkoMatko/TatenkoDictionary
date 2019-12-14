@@ -1,0 +1,14 @@
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Debug\TatenkoNajlepsi.exe.config
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Debug\TatenkoNajlepsi.exe
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\bin\Debug\TatenkoNajlepsi.pdb
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\MainWindow.g.cs
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\App.g.cs
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi_MarkupCompile.cache
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi_MarkupCompile.lref
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\MainWindow.baml
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.g.resources
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.Properties.Resources.resources
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.csproj.GenerateResource.Cache
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.exe
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.pdb
+c:\users\t420\documents\visual studio 2015\Projects\TatenkoNajlepsi\TatenkoNajlepsi\obj\Debug\TatenkoNajlepsi.csprojResolveAssemblyReference.cache
